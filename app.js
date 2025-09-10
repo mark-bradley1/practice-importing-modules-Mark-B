@@ -7,6 +7,7 @@ let myTasks = [];
 tasks.addTask(myTasks, "task 1");
 tasks.addTask(myTasks, "task 2");
 tasks.addTask(myTasks, "task 3");
+tasks.addTask(myTasks, "task 4");
 tasks.listTasks(myTasks);
 
 
